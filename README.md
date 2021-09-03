@@ -9,6 +9,10 @@
 <p align="center">Everything is dark, including the graphs, context menus and all in between! Eyes need not be fried.</p>    
 The theme now runs its own JavaScript code which patches the colors for certain components (and charts). This approach is much better, and safer than what was used previously.
 
+## Changes in this Fork:
+The colors are replaced with GitHubs palette since I prefer them over Discord. Orange and red are not changed yet, as well as some images. This is beacause I just wanted to test how the theme would look with a different palette.
+
+
 ## Installation 
 The installation is done via the CLI utility. Run the following commands on the PVE node serving the Web UI:
 
